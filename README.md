@@ -5,3 +5,4 @@
 7/27: Began looking at sale history of parcels with multiple sales, quick change 3 <br />
 7/30: Replaced old JSON file with new
 8/7: Choropleth added, multi-layers onto SaleAmount/percent change map
+8/14: Added features to maps
