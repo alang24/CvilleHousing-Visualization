@@ -6,3 +6,4 @@
 - 7/30: Replaced old JSON file with new
 - 8/7: Choropleth added, multi-layers onto SaleAmount/percent change map
 - 8/14: Added features to maps
+- 8/21: improved filtering that eliminated irrelevant parcels, added annotations
