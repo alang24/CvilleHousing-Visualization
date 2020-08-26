@@ -7,3 +7,6 @@
 - 8/7: Choropleth added, multi-layers onto SaleAmount/percent change map
 - 8/14: Added features to maps
 - 8/21: improved filtering that eliminated irrelevant parcels, added annotations
+- 8/26: Documentation for section 4, cleaner functions to generate map
+
+TODO: make section 4 map function clean as well
