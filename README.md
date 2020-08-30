@@ -8,5 +8,5 @@
 - 8/14: Added features to maps
 - 8/21: improved filtering that eliminated irrelevant parcels, added annotations
 - 8/26: Documentation for section 4, cleaner functions to generate map
-
+- 8/30: Dual map feature to sale price/perc diff, began time-series maps
 TODO: make section 4 map function clean as well
