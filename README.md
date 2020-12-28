@@ -12,5 +12,5 @@
 - 12/15: Added documentation Sections 1 to 3.4
 - 12/17: Updated documentation Sections 1 to 4. Began working on time visualizations
 - 12/18: Updated documentation Section 6. Finished timesliderchoropleth (but small bug), working on HeatMapWithTime because it might look better
-TODO: make section 4 map function clean as well
 - 12/22: Made heatmapwithtime
+- 12/27: Added plotly express graphs
