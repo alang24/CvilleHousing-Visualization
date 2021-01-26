@@ -14,3 +14,4 @@
 - 12/18: Updated documentation Section 6. Finished timesliderchoropleth (but small bug), working on HeatMapWithTime because it might look better
 - 12/22: Made heatmapwithtime
 - 12/27: Added plotly express graphs
+- 1/25: Incorporate total value csv
