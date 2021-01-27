@@ -15,3 +15,4 @@
 - 12/22: Made heatmapwithtime
 - 12/27: Added plotly express graphs
 - 1/25: Incorporate total value csv
+- 1/26: Added to total value section
