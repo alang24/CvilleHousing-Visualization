@@ -16,3 +16,4 @@
 - 12/27: Added plotly express graphs
 - 1/25: Incorporate total value csv
 - 1/26: Added to total value section
+- 2/5: Improved existing figures
