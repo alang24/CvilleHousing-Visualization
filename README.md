@@ -17,3 +17,4 @@
 - 1/25: Incorporate total value csv
 - 1/26: Added to total value section
 - 2/5: Improved existing figures
+- 2/6: Removed timeslider, modified other figures
